@@ -1,5 +1,10 @@
 [
   {
+    "version": "pe",
+    "title": "pe",
+    "aliases": []
+  },
+  {
     "version": "latest",
     "title": "latest",
     "aliases": []
