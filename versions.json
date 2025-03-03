@@ -8,5 +8,10 @@
     "version": "Developer",
     "title": "Developer",
     "aliases": []
+  },
+  {
+    "version": "_default_",
+    "title": "_default_",
+    "aliases": []
   }
 ]
