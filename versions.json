@@ -3,5 +3,10 @@
     "version": "Platform ENfinerr=platformengineer",
     "title": "Platform ENfinerr=platformengineer",
     "aliases": []
+  },
+  {
+    "version": "Developer=latest",
+    "title": "Developer=latest",
+    "aliases": []
   }
 ]
