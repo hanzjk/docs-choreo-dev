@@ -3,5 +3,10 @@
     "version": "platform-engineer",
     "title": "Platform Engineer",
     "aliases": []
+  },
+  {
+    "version": "developer",
+    "title": "Developer",
+    "aliases": []
   }
 ]
