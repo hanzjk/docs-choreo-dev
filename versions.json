@@ -5,6 +5,11 @@
     "aliases": []
   },
   {
+    "version": "developer",
+    "title": "Developer Test",
+    "aliases": []
+  },
+  {
     "version": "Developer=latest",
     "title": "Developer=latest",
     "aliases": []
