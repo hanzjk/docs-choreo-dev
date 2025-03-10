@@ -17,6 +17,11 @@
     ]
   },
   {
+    "version": "developer",
+    "title": "Developer",
+    "aliases": []
+  },
+  {
     "version": "Developer latest",
     "title": "Developer latest",
     "aliases": []
