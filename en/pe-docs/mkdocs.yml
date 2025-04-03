@@ -24,7 +24,7 @@ site_dir: site/platform-engineer
 # Repository
 repo_name: wso2/docs-choreo-dev
 repo_url: https://github.com/wso2/docs-choreo-dev/
-edit_uri: https://github.com/wso2/docs-choreo-dev/edit/PE/en/pe-docs/docs
+edit_uri: ""
 dev_addr: localhost:8000
 
 # Copyright
@@ -112,6 +112,7 @@ nav:
       - CD Pipelines:
           - Deploy Applications using Choreo CD Pipeline: devops/cd-pipelines/deploying-application-using-choreo-cd-pipeline.md
           - Manage CD Pipelines: 'devops/cd-pipelines/manage-continuous-deployment-pipelines.md'
+          - Submit Environment Promotion Approval Requests: 'devops/cd-pipelines/submit-and-manage-environment-promotion-approval-requests.md'
       - Manage Configuration Groups: devops/manage-configuration-groups.md
   - Governance:
       - Workflows:

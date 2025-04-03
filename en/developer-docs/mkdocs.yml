@@ -24,7 +24,7 @@ site_dir: site/developer
 # Repository
 repo_name: wso2/docs-choreo-dev
 repo_url: https://github.com/wso2/docs-choreo-dev/
-edit_uri: https://github.com/wso2/docs-choreo-dev/edit/PE/en/developer-docs/docs
+edit_uri: ""
 dev_addr: localhost:8000
 
 # Copyright
@@ -115,6 +115,7 @@ nav:
           - Expose a WebSocket Endpoint via a Service: develop-components/develop-services/expose-a-websocket-endpoint-via-a-service.md
       - Develop an API Proxy:
           - Develop an API Proxy from Scratch : develop-components/develop-proxy/develop-an-api-proxy-from-scratch.md 
+          - Develop an API Proxy from Open API Specification : develop-components/develop-proxy/develop-an-api-proxy-from-an-open-api-specification.md
           - Develop an API Proxy from Git Repository Source : develop-components/develop-proxy/develop-an-api-proxy-from-a-github-repository-source.md
       - Develop Web Applications:
           - Build and Deploy a Single-Page Web Application: develop-components/develop-web-applications/build-and-deploy-a-single-page-web-application.md
@@ -144,6 +145,7 @@ nav:
       - Manage Component Source Configurations: develop-components/manage-component-source-configurations.md
       - Submit and Manage Workflow Approval Requests: develop-components/submit-and-manage-workflow-approval-requests.md
       - Develop Components Using VS Code: develop-components/develop-components-using-vs-code.md
+      - Use Configuration Form for Managing Configurations: develop-components/use-configuration-form.md
   - Integrate and Manage External Services:
       - Integrate and Manage Third-Party Services: integrate-and-manage-external-services/integrate-and-manage-third-party-services.md
       - Integrate and Manage Generative AI Services: integrate-and-manage-external-services/integrate-and-manage-gen-ai-services.md
@@ -425,7 +427,7 @@ plugins:
         "api-management/api-policies.md": "https://wso2.com/choreo/docs/api-management/api-policies/about-api-policies/"
         "develop-components/develop-services/expose-a-websocket-endpoint-via-a-nodejs-service.md": "https://wso2.com/choreo/docs/develop-components/develop-services/expose-a-websocket-endpoint-via-a-service/"
         "manage-databases-and-caches/billing-for-platform-services.md": "https://wso2.com/choreo/docs/references/choreo-platform-services-billing-and-upgrades/"
-        "consuming-services/consume-an-oauth2-secured-service.md": "https://wso2.com/choreo/docs/consuming-services/consuming-a-sevice/"
+        "consuming-services/consuming-a-sevice.md": "https://wso2.com/choreo/docs/consuming-services/consume-an-oauth2-secured-service/"
 
 extra_css:
   # - assets/lib/highlightjs/default.min.css
